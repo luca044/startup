@@ -1,2 +1,17 @@
+#include <stdio.h>
 
-https://prod.liveshare.vsengsaas.visualstudio.com/join?15673EB6230DC60076977842FE9F2335AF98
+void questionario()
+{
+    int e;
+    printf("Per iniziare rispondi a questo breve questionario\n");
+    printf("Quanti anni hai\n");
+    scanf(" %d", &e);
+    printf(");
+}
+
+
+int main()
+{
+    printf("Ti diamo il benvenuto a Big Concert Live, la migliore app per trovare eventi musicali\n");
+
+}
