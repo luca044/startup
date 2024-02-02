@@ -104,6 +104,7 @@ void questionario()
                 {
                     system("clear");
                     printf("Procedi all'acquisto del biglietto installando l'app\n");
+                    quiz();
                     
                 } 
                 else if(x==4){
@@ -149,6 +150,7 @@ void questionario()
                 {
                     system("clear");
                     printf("Procedi all'acquisto del biglietto installando l'app\n");
+                    quiz();
                     
                 } 
                 else if(c==4){
@@ -192,6 +194,8 @@ void questionario()
                 {
                     system("clear");
                     printf("Procedi all'acquisto del biglietto installando l'app\n");
+                    quiz();
+
                     
                 } 
                 else if(b==4){
@@ -236,6 +240,8 @@ void questionario()
                 {
                     system("clear");
                     printf("Procedi all'acquisto del biglietto installando l'app\n");
+                    quiz();
+
                     
                 } 
                 else if(a==4){
@@ -279,6 +285,7 @@ void questionario()
                 {
                     system("clear");
                     printf("Procedi all'acquisto del biglietto installando l'app\n");
+                    quiz();
                     
                 } 
                 else if(d==4){
@@ -381,7 +388,7 @@ int main()
         }
     
     }
-    quiz();
+ 
     
     return 0;
 }
